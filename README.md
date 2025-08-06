@@ -1,4 +1,3 @@
-```markdown
 # DASH-Defense-LowOverhead
 
 ## Overview
@@ -243,5 +242,6 @@ For questions, support, or feedback:
 * Thanks to the **LongEnough** dataset providers for making the data publicly available.
 * **Original source code and inspiration** from:
   [trafnex/raising-the-bar](https://github.com/trafnex/raising-the-bar)
+
 
 
