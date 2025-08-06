@@ -1,5 +1,3 @@
-Sure! Here's the updated `README.md` in full Markdown, with attribution to the original repository as the source:
-
 ```markdown
 # DASH-Defense-LowOverhead
 
@@ -245,4 +243,5 @@ For questions, support, or feedback:
 * Thanks to the **LongEnough** dataset providers for making the data publicly available.
 * **Original source code and inspiration** from:
   [trafnex/raising-the-bar](https://github.com/trafnex/raising-the-bar)
+
 
